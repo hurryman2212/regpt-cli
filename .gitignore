@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.gitmodules
+
+!*.md
+!LICENSE
+
+!*.py
